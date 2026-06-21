@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="KESCA Certified — Kitchen Exhaust System Cleaners Association">
+  <defs>
+    <radialGradient id="sun" cx="50%" cy="48%" r="55%">
+      <stop offset="0" stop-color="#fde8b8"/>
+      <stop offset=".55" stop-color="#f9c66a"/>
+      <stop offset="1" stop-color="#e8501e"/>
+    </radialGradient>
+    <linearGradient id="kesca" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8501e"/>
+      <stop offset="1" stop-color="#9c1f06"/>
+    </linearGradient>
+    <path id="topArc" d="M 120 120 m -84 0 a 84 84 0 0 1 168 0" fill="none"/>
+  </defs>
+  <circle cx="120" cy="120" r="116" fill="#fff" stroke="#c2390f" stroke-width="2"/>
+  <circle cx="120" cy="120" r="108" fill="none" stroke="#e8501e" stroke-width="6"/>
+  <circle cx="120" cy="120" r="98" fill="url(#sun)"/>
+  <text font-family="Arial, sans-serif" font-weight="800" font-size="12" fill="#fff" letter-spacing="2.4">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">KITCHEN EXHAUST SYSTEM CLEANERS ASSOCIATION</textPath>
+  </text>
+  <g fill="#c2390f" opacity=".75">
+    <rect x="58" y="120" width="14" height="32"/>
+    <rect x="76" y="105" width="14" height="47"/>
+    <rect x="94" y="115" width="14" height="37"/>
+    <rect x="112" y="100" width="14" height="52"/>
+    <rect x="130" y="110" width="14" height="42"/>
+    <rect x="148" y="118" width="14" height="34"/>
+    <rect x="166" y="124" width="12" height="28"/>
+  </g>
+  <text x="120" y="138" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="42" fill="url(#kesca)" letter-spacing="2">KESCA</text>
+  <path d="M30 178 Q120 208 210 178 L204 212 Q120 234 36 212 Z" fill="#fff" stroke="#1c1714" stroke-width="2"/>
+  <text x="120" y="204" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="20" fill="#1c1714" letter-spacing="4">CERTIFIED</text>
+</svg>

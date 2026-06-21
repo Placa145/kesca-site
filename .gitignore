@@ -1,0 +1,14 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local
+node_modules/
+.env
+.env.local
+
+# Vercel
+.vercel
