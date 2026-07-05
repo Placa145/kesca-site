@@ -9,12 +9,12 @@
       <stop offset="0" stop-color="#e8501e"/>
       <stop offset="1" stop-color="#9c1f06"/>
     </linearGradient>
-    <path id="topArc" d="M 120 120 m -84 0 a 84 84 0 0 1 168 0" fill="none"/>
+    <path id="topArc" d="M 120 120 m -94 0 a 94 94 0 0 1 188 0" fill="none"/>
   </defs>
   <circle cx="120" cy="120" r="116" fill="none" stroke="#c2390f" stroke-width="2"/>
   <circle cx="120" cy="120" r="108" fill="none" stroke="#e8501e" stroke-width="6"/>
   <circle cx="120" cy="120" r="98" fill="url(#sun)"/>
-  <text font-family="Arial, sans-serif" font-weight="800" font-size="12" fill="#fff" letter-spacing="2.4">
+  <text font-family="Arial, sans-serif" font-weight="800" font-size="8" fill="#fff" letter-spacing=".6">
     <textPath href="#topArc" startOffset="50%" text-anchor="middle">KITCHEN EXHAUST SYSTEM CLEANERS ASSOCIATION</textPath>
   </text>
   <g fill="#c2390f" opacity=".75">
